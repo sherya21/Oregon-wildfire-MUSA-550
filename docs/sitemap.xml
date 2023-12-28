@@ -2,34 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/index.html</loc>
-    <lastmod>2023-12-21T17:15:17.776Z</lastmod>
+    <lastmod>2023-12-28T05:22:00.744Z</lastmod>
   </url>
   <url>
-    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/Final.html</loc>
-    <lastmod>2023-12-21T17:15:16.479Z</lastmod>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/US_wildfires_Dashboard.html</loc>
+    <lastmod>2023-12-28T05:21:58.238Z</lastmod>
   </url>
   <url>
-    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/3-altair-hvplot.html</loc>
-    <lastmod>2023-12-21T17:15:14.656Z</lastmod>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/US_wildfire.html</loc>
+    <lastmod>2023-12-28T05:21:55.343Z</lastmod>
   </url>
   <url>
-    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/1-python-code-blocks.html</loc>
-    <lastmod>2023-12-21T17:15:12.106Z</lastmod>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/US_Dashboard_final.html</loc>
+    <lastmod>2023-12-28T05:21:52.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/US.html</loc>
+    <lastmod>2023-12-28T05:21:50.851Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/Final_V3.html</loc>
+    <lastmod>2023-12-28T05:21:48.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/Dashboard_US.html</loc>
+    <lastmod>2023-12-28T05:21:40.762Z</lastmod>
   </url>
   <url>
     <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/about.html</loc>
-    <lastmod>2023-12-21T17:15:01.462Z</lastmod>
+    <lastmod>2023-12-28T05:21:39.514Z</lastmod>
   </url>
   <url>
-    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/2-static-images.html</loc>
-    <lastmod>2023-12-21T17:15:13.283Z</lastmod>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/Dashboard.html</loc>
+    <lastmod>2023-12-28T05:21:40.172Z</lastmod>
   </url>
   <url>
-    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/4-folium.html</loc>
-    <lastmod>2023-12-21T17:15:15.576Z</lastmod>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/Final_V2.html</loc>
+    <lastmod>2023-12-28T05:21:46.483Z</lastmod>
   </url>
   <url>
     <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/index.html</loc>
-    <lastmod>2023-12-21T17:15:17.022Z</lastmod>
+    <lastmod>2023-12-28T05:21:48.963Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/US_Dashboard.html</loc>
+    <lastmod>2023-12-28T05:21:51.511Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/US_wild.html</loc>
+    <lastmod>2023-12-28T05:21:53.445Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/US_wildfires.html</loc>
+    <lastmod>2023-12-28T05:21:57.192Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musa-550-fall-2023.github.io/oregon-wildfire-prediction/analysis/US_wildfires_new.html</loc>
+    <lastmod>2023-12-28T05:22:00.098Z</lastmod>
   </url>
 </urlset>

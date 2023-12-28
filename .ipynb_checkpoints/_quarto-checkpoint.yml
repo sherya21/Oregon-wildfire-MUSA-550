@@ -12,10 +12,10 @@ website:
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; CC-Nick Hand, 2023"
+    left: "&copy; CC-Shreya Bansal and Kathleen Scopis, 2023 with template from Nick Hand"
 
   sidebar:
-    logo: "images/npr-fire.jpeg"
+    logo: "images/fires.jpg"
     pinned: true
     align: center
     tools: 
@@ -31,19 +31,17 @@ website:
         text: Welcome
       - about.qmd
       - section: analysis/index.qmd
-        contents:
-          - analysis/1-python-code-blocks.qmd 
-          - analysis/Final.ipynb
+        contents: 
+          - analysis/US_wild.ipynb
+          - analysis/Dashboard_US.ipynb
+          - analysis/Final_V3.ipynb
+          - analysis/Dashboard.ipynb
           
 format:
   html:
     highlight-style: solarized
-    theme: journal
+    theme: darkly
     css: styles.css
     code-copy: true
     code-overflow: wrap
     toc: true
-
-
-
-

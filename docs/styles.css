@@ -58,9 +58,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
 }
 
-body {
+/*body {
   background-color: #FFFFEB; /* Replace with your desired color code or name */
-}
+}*/
+
 
 .toc a {
   font-weight: bold;
